@@ -9,8 +9,9 @@ import static robocode.util.Utils.normalRelativeAngleDegrees;
 // API help : https://robocode.sourceforge.io/docs/robocode/robocode/Robot.html
 
 /**
- * ArmaanRobot - a robot by (Armaan Hajarizadeh)
+ * ArmaanRobot - a robot by (Armaan Hajarizadeh, 2022)
  */
+
 public class NewArmaanRobot extends TeamRobot {
 	
 	public void run() {
