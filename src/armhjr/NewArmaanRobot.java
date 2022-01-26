@@ -1,6 +1,6 @@
 /*
  * Author: Armaan Hajarizadeh
- * Date: January 24, 2022
+ * Date: January 26, 2022
  * Description: Armaan Hajar's robot for the Robocode project
  * 
  * Main Goal of Robot:
@@ -32,7 +32,7 @@ public class NewArmaanRobot extends TeamRobot {
 	
 	public void run() {
 		setColors(Color.magenta,Color.green,Color.yellow); // body,gun,radar
-
+		
 		// Robot main loop
 		while(true) {
 			// turn the Gun (looks for enemy)
