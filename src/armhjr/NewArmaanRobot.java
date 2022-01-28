@@ -1,7 +1,7 @@
 /*
  * Author: Armaan Hajarizadeh
  * Date: January 26, 2022
- * Description: Armaan Hajar's robot for the Robocode project
+ * Description: Armaan Hajar's robot for the Robocode project.
  * 
  * Main Goal of Robot:
  * 1. Find enemy
